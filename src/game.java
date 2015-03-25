@@ -6,6 +6,7 @@ public class game {
 		System.out.println("Salut");
 		System.out.println("Salut");
 		System.out.println("Salut");
+		System.out.println("Salut");
 	}
 
 }
